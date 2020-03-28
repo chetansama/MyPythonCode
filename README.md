@@ -1,2 +1,2 @@
 # MyPythonCode
-Udemy Python Code
+Python Code
